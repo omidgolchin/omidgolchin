@@ -1,12 +1,25 @@
-👋 Hi, I’m @omidgolchin
-👀 I’m interested in analytics, building data products, and decision science. I’m also passionate about business, entrepreneurship, and understanding market dynamics.
-🌱 I’m currently learning advanced analytics, machine learning, and practicing to apply them to solve business problems like forecasting revenue, detecting potential churning customers and etc. 
-💞️ I’m looking to collaborate on projects in revenue and marketing analytics.
-📫 How to reach me: Connect with me on LinkedIn (prefered) or email me at omid.golchin92@gmail.com.
-😄 Pronouns: He/Him
-⚡ Fun fact: I'm really interested in the concepts and the math behind machine learning algorythms :) Yes! that's how boring I am 😄
+I build tools that make classic decision and simulation methods easy to use, and I study how far LLM and agent outputs can be trusted: how repeatable, how well calibrated, how reliable.
 
-<!---
-omidgolchin/omidgolchin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Site: https://omidgolchin.github.io/
+
+## Tools
+
+**Evaluating LLMs and agents**
+
+- [Error Bars for LLM Evals](https://omidgolchin.github.io/llm-eval-error-bars/)
+- [Agent Eval Planner](https://omidgolchin.github.io/experiment-hazard-simulator/)
+- [Which Draft Persuades?](https://omidgolchin.github.io/persuasion-checker/)
+
+**Decisions under uncertainty**
+
+- [A/B Test Decision Tool](https://omidgolchin.github.io/bayesian-ab-lab/)
+- [GPU Budget Planner](https://omidgolchin.github.io/gpu-budget-planner/)
+- [Order Quantity Planner](https://omidgolchin.github.io/order-quantity-planner/)
+
+**Operations and simulation**
+
+- [Call Center Staffing Planner](https://omidgolchin.github.io/queue-simulator/)
+- [Production Line Bottleneck Finder](https://omidgolchin.github.io/production-line-simulator/)
+- [Ordering Policy Tester](https://omidgolchin.github.io/ordering-policy-tester/)
+
+Contact: [LinkedIn](https://www.linkedin.com/in/omidgolchin)
